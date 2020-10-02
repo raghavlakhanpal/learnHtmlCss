@@ -1,0 +1,22 @@
+body{
+    background: rgb(63, 154, 240);
+    margin-left: 30%;
+    margin-right: 30%;
+}
+a{
+    text-decoration: none;
+    color: red;
+    text-transform: capitalize;
+}
+h1{
+    font-family: ubuntu;
+
+    color: rgba(35, 38, 39, 0.897);
+}
+p{
+    font-family: ubuntu;
+    color: white;
+}
+img{
+    height: 200px;
+}
